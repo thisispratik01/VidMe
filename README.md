@@ -1,6 +1,6 @@
-# Zoom Clone
+# VidMe
 
-Zoom Clone that works on Android & iOS! 
+VidMe that works on Android & iOS! 
 
 ## Features
 1. Google Sign In
@@ -23,18 +23,10 @@ Zoom Clone that works on Android & iOS!
 18. See Your Meeting History
 19. Log out
 
-## YouTube
-I have created a tutorial based on this, do check it out on my channel [Rivaan Ranawat](https://youtu.be/sMA1dKbv33Y) 
-
-<p align="center">
-  <img width="600" src="https://github.com/RivaanRanawat/flutter-zoom-clone/blob/master/screenshot.png" alt="Youtube Tutorial Image">
-</p>
 
 ## Tech Used
 **Server**: Firebase Auth, Firestore, Google Sign In, Jitsi Meet
 **Client**: Flutter
     
-## Feedback
 
-If you have any feedback, please reach out to me at namanrivaan@gmail.com
 
